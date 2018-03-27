@@ -324,7 +324,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d15586.653249457702!2d-1.46763965!3d12.4054583!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sbf!4v1521587223515" frameborder="0" style="border:0" allowfullscreen></iframe>
 								<div class="faddressw3-agileinfo">
 									<div class="faddress-w3left">
-										<p>Wayalghin, Ouagadougou,<br> Burkina Faso </p>
+										<p align="justify">Wayalghin, Ouagadougou,<br> Burkina Faso </p>
 									</div>
 									<div class="faddress-w3right">
 										<p>Appel :  +226 71 24 34 14</p>
