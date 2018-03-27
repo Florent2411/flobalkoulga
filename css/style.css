@@ -553,7 +553,7 @@ body .buttons-wrapper .slider > li:nth-child(1) {
 	transform-origin: center center -50vh;  
 } 
 body .buttons-wrapper .slider > li:nth-child(2) {
-	background: url(../images/5.jpg) no-repeat center center;
+	background: url(../images/slide2.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-ms-background-size: cover;
