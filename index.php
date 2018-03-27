@@ -60,7 +60,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<div class="col-md-8 header-w3right"> 
 								<h3 class="agileits-title">A PROPOS DE MOI</h3> 
 								<div class="profile-agileinfo"> 
-									<p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet sem sit amet dolor luctus pellentesque. Pellentesque eleifend tellus at interdum elementum. Nam egestas molestie elit. Vivamus sed accumsan quam, a mollis magna. Nam aliquet eros eget sapien consequat tincidunt at vel nibh. Duis ut turpis mi. Duis nec scelerisque urna, sit amet varius arcu. Aliquam aliquet sapien quis mauris semper suscipit. Maecenas pharetra dapibus posuere. </p>
+									<p align="justify" style="color:white">Passionné de l'informatique et de tout ce qui à trait aux technologies et électroniques, je me suis spécialisé en developpement d'applications. Je suis ingénieur en Méthodes Informatiques Appliquées à la Gestion (MIAGE), diplome obtenu à l'Institut Burkinabé des Arts et Métiers. Parcours durant lequel, j'ai exploré plusieurs horizons tels le développent web et mbile, la maintenance et réseau, et d'autres technologies telles arduino et raspberry pi et qui m'ont valu par la même occasion des récompences ou distinctions aussi bien nationales que régionales. <a href="">Mon CV</a></p>
 									<div class="col-md-4 col-xs-4 profile-grids"> 
 										<i class="fa fa-user"></i>
 										<h5>Informations</h5>
@@ -112,29 +112,44 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="container">  
 						<div class="col-md-8 skills-w3lsleft">
 							<h3 class="agileits-title">Competences</h3> 
-							<p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet sem sit amet dolor luctus pellentesque. Pellentesque eleifend tellus at interdum elementum. Nam egestas molestie elit. Vivamus sed accumsan quam, a mollis magna. Nam aliquet eros eget sapien consequat tincidunt at vel nibh. Duis ut turpis mi. Duis nec scelerisque urna, sit amet varius arcu. Aliquam aliquet sapien quis mauris semper suscipit. Maecenas pharetra dapibus posuere. Praesent odio sem, varius quis dolor vel, maximus dapibus mi. Pellentesque mattis mauris neque. Nam aliquam turpis ante, at cursus massa ullamcorper ut. Proin id diam id nisi sagittis pellentesque sed sit amet eros.</p>
+							<p align="justify">En dehors des langages de programmation de bases tels PHP, VB, Java, je m'adonne aux lanages et technologies suivants.</p>
 							<div class="skill-agileinfo">
-								<div class="skillbar" data-percent="98">
-									<span class="skillbar-title" style="background: #d35400;">HTML5</span>
+								<div class="skillbar" data-percent="70">
+									<span class="skillbar-title" style="background: #d35400;">ANDROID</span>
 									<p class="skillbar-bar" style="background: #e67e22;"></p>
 									<span class="skill-bar-percent"></span>
 								</div>
 								<!-- End Skill Bar --> 
-								<div class="skillbar" data-percent="99">
-									<span class="skillbar-title" style="background: #2980b9;">CSS3</span>
+								<div class="skillbar" data-percent="90">
+									<span class="skillbar-title" style="background: #2980b9;">OPENERP</span>
 									<p class="skillbar-bar" style="background: #3498db;"></p>
 									<span class="skill-bar-percent"></span>
 								</div>
 								<!-- End Skill Bar --> 
-								<div class="skillbar" data-percent="95">
-									<span class="skillbar-title" style="background: #2c3e50;">jQuery</span>
+								<div class="skillbar" data-percent="80">
+									<span class="skillbar-title" style="background: #2c3e50;">OPENMRS</span>
 									<p class="skillbar-bar" style="background: #2c3e50;"></p>
 									<span class="skill-bar-percent"></span>
 								</div>
 								<!-- End Skill Bar --> 
 								<div class="skillbar" data-percent="70">
-									<span class="skillbar-title" style="background: #46465e;">PHP</span>
+									<span class="skillbar-title" style="background: #46465e;">NAGIOS</span>
 									<p class="skillbar-bar" style="background: #5a68a5;"></p>
+									<span class="skill-bar-percent"></span>
+								</div>
+								<div class="skillbar" data-percent="40">
+									<span class="skillbar-title" style="background: gray;">RASPBERRY</span>
+									<p class="skillbar-bar" style="background: silver;"></p>
+									<span class="skill-bar-percent"></span>
+								</div>
+								<div class="skillbar" data-percent="60">
+									<span class="skillbar-title" style="background: green;">J2EE</span>
+									<p class="skillbar-bar" style="background: #0cf576;"></p>
+									<span class="skill-bar-percent"></span>
+								</div>
+								<div class="skillbar" data-percent="65">
+									<span class="skillbar-title" style="background: #d34836;">WLANGAGE</span>
+									<p class="skillbar-bar" style="background: #a94442;"></p>
 									<span class="skill-bar-percent"></span>
 								</div>
 								<!-- End Skill Bar --> 
@@ -147,9 +162,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
 								</div>
 								<div class="col-xs-9 services-w3lsright">
-									<h4>Etiam pharetra</h4>
-									<p>Itaque earum rerum hic tenetur a sapiente delectus 
-									reiciendis maiores.</p>
+									<h4> Aube Nouvelle</h4>
+									<p align="justify">En cours d'étude en Master II en Management des Systèmes d’Information.</p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -158,9 +172,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<span class="glyphicon glyphicon-heart" aria-hidden="true"></span>
 								</div>
 								<div class="col-xs-9 services-w3lsright">
-									<h4>Pharetra erat</h4>
-									<p>Itaque earum rerum hic tenetur a sapiente delectus 
-									reiciendis maiores.</p>
+									<h4>Université de Ouaga</h4>
+									<p align="justify">En cours d'étude en Master I en Système d’Information et Réseau.</p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -169,9 +182,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<span class="glyphicon glyphicon-stats" aria-hidden="true"></span>
 								</div>
 								<div class="col-xs-9 services-w3lsright">
-									<h4>Nuncam erat</h4>
-									<p>Itaque earum rerum hic tenetur a sapiente delectus 
-									reiciendis maiores.</p>
+									<h4>IBAM</h4>
+									<p align="justify">Licence professionnelle en Méthodes Informatiques Appliquées à la GEstion.</p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -180,9 +192,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<span class="glyphicon glyphicon-camera" aria-hidden="true"></span>
 								</div>
 								<div class="col-xs-9 services-w3lsright">
-									<h4>Mtiam nunc</h4>
-									<p>Itaque earum rerum hic tenetur a sapiente delectus 
-									reiciendis maiores.</p>
+									<h4>Lyçée Bogodogo</h4>
+									<p align="justify">Baccalauréat série D.</p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
